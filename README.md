@@ -1,6 +1,8 @@
-# Formsy onChange handling quirk
+# Formsy JSON parse bug
 
-This a demonstration for a quirk.
+## Live demo
+
+http://sashee.github.io/formsy-parse-bug/dist/
 
 ## Build from source
 
